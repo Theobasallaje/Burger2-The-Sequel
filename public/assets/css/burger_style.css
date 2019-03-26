@@ -1,0 +1,70 @@
+body{
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  background-color: rgb(255, 163, 84);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-top: 25px;
+}
+#burgerPic{
+  height: 15vh;
+  width: 8vw;
+}
+
+/* .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
+
+#addFieldButton{
+  font-size: 1.5em;
+}
+
+.bodyContainer{
+  /* border: 2px solid purple; */
+  display: flex;
+  justify-content: center;
+}
+.burgers{
+  /* border: 2px solid red; */
+  width: 500px;
+}
+
+#addBurger{
+  margin-top: 40px;
+  padding: 15px 32px;
+}
+
+button {
+  font-family: 'Bree Serif', serif;
+  background-color: rgb(219, 101, 0);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.addBurgerContainer{
+  /* border: 2px solid green; */
+  width: 500px;
+}
+
+#eatButton{
+  margin-left: 10px;
+  padding: 9px 7px;
+}
+
+.devour{
+  /* border: 2px solid blue; */
+  width: 500px;
+}
+
